@@ -1,0 +1,9 @@
+{
+  "services": [
+    { "id": 1, "name": "Հաշվիչ", "init": "/calculator" },
+    { "id": 2, "name": "To-Do List", "init": "/todo" },
+    { "id": 3, "name": "Եղանակ", "init": "/weather" },
+    { "id": 4, "name": "Խոսքեր", "init": "/quotes" }
+    
+  ]
+}

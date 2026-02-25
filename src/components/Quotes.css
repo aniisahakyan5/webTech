@@ -1,0 +1,38 @@
+.quotes-container {
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 30px;
+  background-color: #fff3e0; /* մեղմ նարնջագույն ֆոն */
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+}
+
+.quotes-title {
+  margin-bottom: 25px;
+  color: #5D4037; /* մուգ շագանակագույն տեքստ */
+  font-size: 24px;
+}
+
+.quotes-button {
+  background-color: #5D4037;; /* մեղմ դեղին կոճակ */
+  color: #fff;
+  border: none;
+  padding: 12px 25px;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+.quotes-button:hover {
+  background-color: #6b5851;
+}
+
+.quotes-text {
+  margin-top: 25px;
+  font-size: 20px;
+  color: #5D4037;
+  font-style: italic;
+}

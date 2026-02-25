@@ -1,0 +1,21 @@
+.home-container {
+  max-width: 700px;
+  margin: 80px auto;
+  padding: 40px;
+  background-color: #fff8e1; /* մեղմ նարնջագույն ֆոն */
+  border-radius: 20px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+}
+
+.home-title {
+  font-size: 32px;
+  color: #5D4037; /* մուգ շագանակագույն տեքստ */
+  margin-bottom: 20px;
+}
+
+.home-text {
+  font-size: 20px;
+  color: #795548; /* շագանակագույն տեքստ */
+}

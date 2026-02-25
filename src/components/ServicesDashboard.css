@@ -1,0 +1,30 @@
+.service-block {
+  border: 1px solid #ccc;
+  padding: 16px;
+  margin-bottom: 12px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  position: relative;
+  margin: auto;
+}
+.dashboard{
+  /* display: flex;
+  flex-wrap: wrap; */
+}
+.service-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.close-btn {
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  color: #888;
+}
+
+.close-btn:hover {
+  color: red;
+}
